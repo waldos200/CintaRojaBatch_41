@@ -8,7 +8,7 @@ class Persona {
     }
 
     calcularIMC(){
-        return "Tu IMC es de: " + (this.peso / this.altura);
+        return "Tu IMC es de: " + this.peso / (this.altura * this.altura);
     }
 
     esMayorDeEdad(){

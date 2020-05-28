@@ -56,5 +56,5 @@ class Cuenta {
 var cuentaUno = new Cuenta("Waldo", 700);
 console.log(cuentaUno);
 console.log(cuentaUno.Icantidad(200));
-console.log(cuentaUno.Rcantidad(890));
+console.log(cuentaUno.Rcantidad(100));
 console.log(cuentaUno.validacion());

@@ -43,3 +43,6 @@ array.map((pais, indice, arreglo) => console.log(pais, indice, arreglo));
 
 const newArray = array.map((pais, indice) => "Pais " + indice + ": " +pais);
 console.log(newArray);
+
+// es una forma de concatenar
+// `pais ${indice}: ${elemento}`

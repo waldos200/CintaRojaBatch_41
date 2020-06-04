@@ -22,7 +22,7 @@ const buscaBanda = (nombre) => {
                 // Hacemos legible nuestro JSON para js
                 // un String a obeto 
                 const respuesta = JSON.parse(body);
-                // instancia de mi clase bandaç
+                // instancia de mi clase banda
 
                 // creo constantes basadas en lo aributos del objeto 
                 const { strArtist, intFormedYear, strWebsite, strGenre } = respuesta.artists[0];

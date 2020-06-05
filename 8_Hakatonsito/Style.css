@@ -1,0 +1,15 @@
+.titulo{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.cartas {
+    display: flex;
+    justify-content:space-around;
+}
+
+.carta2 img{
+    height: 182px;
+    margin: solid 1px ;
+}

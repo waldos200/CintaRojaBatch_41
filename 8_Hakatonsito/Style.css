@@ -13,3 +13,23 @@
     height: 182px;
     margin: solid 1px ;
 }
+
+.mt {
+    color: black;
+}
+
+p {
+    color: black;
+}
+
+.p2 {
+    color: white;
+}
+
+.none {
+    display: none;
+}
+
+.registrate {
+    margin-top: 20px;
+}

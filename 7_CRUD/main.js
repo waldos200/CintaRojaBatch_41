@@ -66,6 +66,9 @@ const createAuthor = (nombre, apellido, biografia, genero, edad) => {
     });
 }
 
+
+// Solucion de Gera
+
 // createAuthor('Nombre', 'Apellidos', 'Biografia', 'F', 89)
 //   .then(author => console.log(author.id))
 //   .catch(err => console.log(err))
